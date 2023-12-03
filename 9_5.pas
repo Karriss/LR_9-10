@@ -4,8 +4,7 @@ var
  i, g, v, f, n, z, c, l, m, j: integer;
   a: array[1..20] of integer;
   b: array[1..20] of integer;
-procedure ognev //(формальные)
-var hghghghghghghghghghghghgh;
+procedure form; //(формальные)
 begin
  //Локальные
  if a[i] < z then z:= a[i];
@@ -33,7 +32,7 @@ begin
   z:=1000;
    m:= 1000;
   for i := 1 to 20 do begin
-      ognev;
+      form;
       break;
       end;
   if g > f then
