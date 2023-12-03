@@ -1,4 +1,4 @@
-﻿program zad_5;
+program zad_5;
 var
  //фактические
  i, g, v, f, n, z, c, l, m, j: integer;
